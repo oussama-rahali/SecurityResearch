@@ -73,7 +73,7 @@ This vulnerability can be used to perform phishing attacks by making the URLs in
 
 We recommend validating the host header and ensuring it matches the application's domain. It would also be beneficial to use a default trusted host or hostname if the incoming host header is not recognized or is absent.
 
-Similare vulnerability (CVE-2024-23648) has been fixed in this project by using `UrlGeneratorInterface::ABSOLUTE_URL` (https://github.com/pimcore/admin-ui-classic-bundle/commit/70f2205b5a5ea9584721d4f3e803f4d0dd5e4655)
+Similar vulnerability (CVE-2024-23648) has been fixed in this project by using `UrlGeneratorInterface::ABSOLUTE_URL` (https://github.com/pimcore/admin-ui-classic-bundle/commit/70f2205b5a5ea9584721d4f3e803f4d0dd5e4655)
 
 ## Credit
 
