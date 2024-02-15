@@ -1,2 +1,2 @@
 # SecurityResearch
-This repository contains information on all of the code audit and CVEs I found.
+This repository contains information on all of the code audit I performed and CVEs I found
