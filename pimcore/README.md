@@ -1,4 +1,4 @@
-# Pimcore Host Header Injection in user invitation link
+# Pimcore Host Header Injection in user invitation link - CVE-2024-25625
 
 ## Overview
 
